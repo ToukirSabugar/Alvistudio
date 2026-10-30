@@ -1,0 +1,28 @@
+import { photo, type SamplePhoto } from "@/content/gallery-types";
+
+export const batchB: SamplePhoto[] = [
+  photo("kitchen-1", "kitchen", "Kitchen with wood-finish cabinets and warm LED lighting", "An open kitchen with wood-finish upper cabinets lit by warm strip lights, a dark island with a cooktop hood above it and a dining area behind."),
+  photo("kitchen-2", "kitchen", "White kitchen with a long island and bar stools", "A bright white kitchen with a large quartz island, three bar stools, glass pendant lights and big windows overlooking a dining table."),
+  photo("kitchen-3", "kitchen", "Grey shaker cabinets with a marble-look island", "A kitchen with grey shaker-style cabinets, a marble-look island with wooden stools, brass pendant lights and a wooden floor."),
+  photo("kitchen-4", "kitchen", "White kitchen with open shelves and a breakfast counter", "A white kitchen with a wall of cabinets, open shelving with small decor items, two crystal pendant lights and a counter with two brown stools."),
+  photo("kitchen-5", "kitchen", "Kitchen with tall wood-grain cabinets and a white island", "A kitchen with floor-to-ceiling wood-grain cabinets, a built-in oven, a white island with an induction hob and a ceiling-mounted hood."),
+  photo("kitchen-6", "kitchen", "Dark marble kitchen with glossy cabinets", "A long modern kitchen with a black marble backsplash, dark upper cabinets, glossy fronts and built-in appliances on a polished floor."),
+  photo("dining-room-1", "dining-room", "Dining room with a wooden table and a chandelier", "A bright dining room with a long wooden table, matching wooden chairs, a chandelier, a display cabinet and windows on two sides."),
+  photo("dining-room-2", "dining-room", "Dining area with a green wall and a rustic table", "A dining area with a deep green wall, a wooden table with metal legs, a bench and chairs, and a large window with blinds."),
+  photo("dining-room-3", "dining-room", "Spacious dining room opening onto a patio", "A spacious dining room with a wooden table, a rug, a round pendant light and glass doors opening to a patio."),
+  photo("dining-room-4", "dining-room", "Dining table with a bench and black metal chairs", "A wooden dining table with a bench and black metal chairs under an industrial pendant light, with a kitchen and tall windows beyond."),
+  photo("dining-room-5", "dining-room", "Compact dining set with pink chairs", "A small white dining table with four pink chairs and a vase of dried stems against a soft pink wall."),
+  photo("dining-room-6", "dining-room", "Breakfast nook with a wooden table and chairs", "A wooden dining table with cushioned chairs and a window seat in a sunny nook next to a white kitchen."),
+  photo("bathroom-1", "bathroom", "Bathroom with a black vanity and marble basins", "A bathroom vanity in black with gold handles, two marble vessel basins with gold taps and two mirrors above."),
+  photo("bathroom-2", "bathroom", "Marble-walled bathroom with a blue floating vanity", "A bathroom with white marble walls, a glass shower screen, a blue wall-hung vanity with two round basins and an illuminated mirror."),
+  photo("bathroom-3", "bathroom", "Bathroom with a freestanding tub and marble tiles", "A bright bathroom with white marble-look tiles, a freestanding bathtub, a walk-in shower and black fittings."),
+  photo("bathroom-4", "bathroom", "Grey tiled bathroom with a glass shower", "A compact bathroom with grey tiles, a glass shower enclosure, a wall-hung toilet and a wood-finish vanity with a mirror cabinet."),
+  photo("bathroom-5", "bathroom", "Beige bathroom with a bath and a wooden vanity", "A bathroom in beige tones with a built-in bathtub, a vessel basin on a vanity with shelves, a wall-hung toilet and recessed wall niches."),
+  photo("bathroom-6", "bathroom", "Bathroom with a wall-hung double basin and a freestanding tub", "A grey and white bathroom with a glass shower, a wide wall-hung vanity with two basins, a long mirror and a freestanding tub."),
+  photo("wardrobe-1", "wardrobe", "Walk-in wardrobe with blue panels and wooden drawers", "A walk-in wardrobe with blue-grey panels, open wooden shelves, hanging rails with LED lighting and a bank of wooden drawers."),
+  photo("wardrobe-2", "wardrobe", "White walk-in wardrobe with open shelving", "A white walk-in wardrobe with hanging rails and tall open shelves along both sides of a narrow passage."),
+  photo("wardrobe-3", "wardrobe", "Beige built-in wardrobe with black handles", "A room with built-in wardrobes in beige with black bar handles, open shelf units and cupboards at different heights."),
+  photo("wardrobe-4", "wardrobe", "Classic white wardrobe with drawers and shelves", "A classic-style white walk-in wardrobe with panelled drawers, open shelves, hanging space and a blue tufted stool."),
+  photo("wardrobe-5", "wardrobe", "Dark grey wardrobe with oak shelves and pull-out drawers", "A wardrobe with dark grey panels, oak shelves, pull-out drawers, hanging rails with hangers and a strip light above."),
+  photo("wardrobe-6", "wardrobe", "Narrow dressing room with wooden shelves and black rails", "A narrow dressing room with tiered wooden shelves on black metal supports, a drawer unit at the end and spotlights overhead."),
+];
